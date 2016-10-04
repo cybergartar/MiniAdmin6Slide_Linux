@@ -1,0 +1,14 @@
+centre
+
+
+
+
+
+ _
+| |_ ___  _ __
+| __/ _ \\| '_ \
+| || (_) | |_) |
+ \\__\___/| .__/
+         |_|
+
+ * see currently running process, cpu & memory status

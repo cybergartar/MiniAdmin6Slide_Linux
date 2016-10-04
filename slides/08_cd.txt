@@ -1,0 +1,21 @@
+centre
+
+
+
+
+
+         _   __    _ _              __
+  ___ __| | | _|__| (_)_ __ ___  __|_ |
+ / __/ _` | | |/ _` | | '__/ _ \\/ __| |
+| (_| (_| | | | (_| | | | |  __/ (__| |
+ \\___\__,_| | |\__,_|_|_|  \___|\___| |
+            |__|                   |__|
+
+
+ * ~c~hange ~d~irectory to directory [direc]
+      - example: ~cd~ /home/ultimate/Desktop
+
+ * .. and ~
+      - \~ means home folder (/home/ultimate)
+      - ~..~ means ~upper~ level directory
+          - example: .. of /home/ultimate is /home

@@ -1,0 +1,15 @@
+centre
+
+
+
+
+
+__
+\\ \
+ \\ \
+ / /
+/_/
+
+
+ * take output from ~command~ to ~file~
+      - example : echo "TestOutput" ~>~ outputFile.txt

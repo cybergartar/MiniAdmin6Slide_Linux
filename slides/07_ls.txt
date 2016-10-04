@@ -1,0 +1,21 @@
+centre
+
+
+
+
+
+ _       __    _ _     _  __
+| |___  | _|__| (_)___| ||_ |
+| / __| | |/ _` | / __| __| |
+| \\__ \ | | (_| | \__ \ |_| |
+|_|___/ | |\\__,_|_|___/\__| |
+        |__|             |__|
+
+
+* ~l~i~s~ts files in directory [direc], if not specified show of current directory
+      - example : ~ls~
+                  ~ls~ /home/ultimate
+
+* can be used with options
+      ~-l~ : lists files in long format
+      ~-a~ : lists all files (include hidden files)

@@ -1,0 +1,20 @@
+centre
+
+__        ___           _  ___
+\\ \      / / |__   __ _| ||__ \
+ \\ \ /\ / /| '_ \ / _` | __|/ /
+  \\ V  V / | | | | (_| | |_|_|
+   \\_/\_/  |_| |_|\__,_|\__(_)
+
+* OS
+      ~UNIX~-based
+      Uniplexed Information and Computing System
+
+* Invented by ~Linus Benedict Torvalds
+
+
+* Initial release
+      September 17, 1991; ~25 years ago~
+
+* Examples
+      Ubuntu, Android, OSX, iOS, ฯลฯ

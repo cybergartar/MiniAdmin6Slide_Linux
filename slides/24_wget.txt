@@ -1,0 +1,18 @@
+centre
+
+
+
+
+
+                    _     __           _ __
+__      ____ _  ___| |_  | _|   _ _ __| |_ |
+\\ \ /\ / / _` |/ _ \ __| | | | | | '__| || |
+ \\ V  V / (_| |  __/ |_  | | |_| | |  | || |
+  \\_/\_/ \__, |\___|\__| | |\__,_|_|  |_|| |
+         |___/           |__|           |__|
+
+
+ * downloads file from [url]
+      - example : ~wget~ ultimatezones.com/loadme.jpg
+
+ * its name is derived from ~World Wide Web~ and ~get~

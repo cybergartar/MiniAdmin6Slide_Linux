@@ -1,0 +1,15 @@
+centre
+
+
+
+
+
+ _
+| |
+| |
+| |
+| |
+|_|
+
+ * takes output of command before | to input of command after it
+      - example : cat readGu.txt ~|~ grep "find me"

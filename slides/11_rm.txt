@@ -1,0 +1,21 @@
+centre
+
+
+
+
+
+                  __ __ _ _          __
+ _ __ _ __ ___   | _/ _(_) | ___  __|_ |
+| '__| '_ ` _ \\  | | |_| | |/ _ \/ __| |
+| |  | | | | | | | |  _| | |  __/\\__ \ |
+|_|  |_| |_| |_| | |_| |_|_|\\___||___/ |
+                 |__|               |__|
+
+ * ~r~e~m~oves files [files]
+      - example : ~rm~ test1
+
+ * ~CAUTION~: if copy directory, must include option ~-R~
+      - example : ~rm~ -R testDirec1/
+
+ * ~TIP~ : can also be used with option ~-f~ to skip delete confirmation
+      - example : ~rm~ -Rf testDirec1/

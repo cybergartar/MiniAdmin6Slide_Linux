@@ -1,0 +1,12 @@
+{
+  "header": {
+    "centre": "Linux Essentials"
+  },
+  "footer": {
+    "left": "ulTimate",
+    "right": "@CSAG :: KMITL"
+  },
+  "fade": {
+    "delay": 15
+  }
+}
