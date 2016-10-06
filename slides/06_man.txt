@@ -12,3 +12,6 @@ centre
 
 * prints ~man~ual of command <cmd>
       - example : ~man~ date
+
+* altenative options such as ~--help~, ~-h~
+      - example : date ~--help~

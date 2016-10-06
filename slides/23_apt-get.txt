@@ -18,4 +18,6 @@ centre
                   ~apt-get~ install vim
                   ~apt-get~ remove vim
 
+ * download from repository listed in /etc/apt/sources.list.d 
+
  * ~apt~ stands for ~A~dvanced ~P~ackage ~T~ool

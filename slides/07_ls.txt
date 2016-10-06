@@ -1,21 +1,23 @@
 centre
 
+ _       __    _ _     __
+| |___  | _|__| (_)_ _|_ |
+| / __| | |/ _` | | '__| |
+| \\__ \ | | (_| | | |  | |
+|_|___/ | |\\__,_|_|_|  | |
+        |__|          |__|
 
 
 
-
- _       __    _ _     _  __
-| |___  | _|__| (_)___| ||_ |
-| / __| | |/ _` | / __| __| |
-| \\__ \ | | (_| | \__ \ |_| |
-|_|___/ | |\\__,_|_|___/\__| |
-        |__|             |__|
-
-
-* ~l~i~s~ts files in directory [direc], if not specified show of current directory
+* ~l~i~s~ts files in directory [dir], if not specified show of current directory
       - example : ~ls~
                   ~ls~ /home/ultimate
 
 * can be used with options
       ~-l~ : lists files in long format
       ~-a~ : lists all files (include hidden files)
+      ~-h~ : prints size in human readable format
+
+* example of ~-l~
+      drwxrwxr-x 5 ultimate ultimate    4096 Oct  4 21:16 LinuxSlides
+      ~permission~     ~owner~    ~group~     ~size~   ~modified~      ~name~

@@ -17,4 +17,4 @@ centre
                   ~ping~ www.kmitl.ac.th
                   ~ping~ localhost
 
- * stands for ~P~acket ~I~nternet ~G~roper
+ * stands for ~P~acket ~IN~ternet ~G~roper

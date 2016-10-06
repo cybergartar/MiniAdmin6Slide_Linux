@@ -1,0 +1,21 @@
+centre
+
+
+
+
+
+ _
+(_)_ __     __ _
+| | '_ \\   / _` |
+| | |_) | | (_| |
+|_| .__/   \\__,_|
+  |_|
+
+
+
+ * see details about machine's network interface
+
+ * acually it's ip ~addr~
+
+ * further usage : can enable/disble network interface
+      example : ~ip~ link set wlp1s0 down
